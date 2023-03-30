@@ -14,11 +14,36 @@ namespace pracfinal
 
         public static void Start(string path)
         {
+            StreamReader sr = File.OpenText(@"..\..\..\..\text\bd102.txt");
+            string st = sr.ReadToEnd();
+            sr.Close();
+
+            string[] configLines = st.Split(new char[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries);
+
             using (StreamWriter sw = File.AppendText(path + "\\ignorame.txt"))
             {
-                sw.WriteLine("Buenos dias querido usuario. Este archivo es un texto que usted no deberia de estar mirando bajo ningun concepto");
+                sw.WriteLine(configLines[0]);
+
             }
-            //Console.WriteLine(file[8]);
+            Joke();
+
+
+            foreach (string line in configLines)
+            {
+                using (StreamWriter sw = File.AppendText(path + "\\ignorame.txt"))
+                {
+                    if (line != configLines[0])
+                    {
+                        sw.WriteLine(line);
+                        System.Threading.Thread.Sleep(5000);
+                    }
+                }
+            }
+        }
+
+        public static void Joke()
+        {
+            Console.WriteLine("Bromita");
         }
     }
 }
