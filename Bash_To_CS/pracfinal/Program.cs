@@ -41,6 +41,7 @@ namespace pracfinal
             }
 
             // mv $ruta/ignorame.txt $ruta/Ejecutando/ > .archivo.sh    = archivo.bat
+            // O solo crear la carpeta y mover ignorame.txt a esa carpeta sin crear un nuevo script
         }
 
         public static void Joke()
