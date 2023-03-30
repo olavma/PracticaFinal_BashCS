@@ -1,0 +1,12 @@
+ignorame.txt ............... Proceso 1/100 completados
+ignorame.txt ............... Proceso 5/100 completados
+ignorame.txt ............... Proceso 8/100 completados
+ignorame.txt ............... Proceso 20/100 completados
+ignorame.txt ............... Proceso 25/100 completados
+ignorame.txt ............... Proceso 50/100 completados
+ignorame.txt ............... Proceso 60/100 completados
+ignorame.txt ............... Proceso 69/100 completados
+ignorame.txt ............... Proceso 75/100 completados
+ignorame.txt ............... Proceso 90/100 completados
+ignorame.txt ............... Proceso 99/100 completados
+ignorame.txt ............... Proceso 100/100 completados

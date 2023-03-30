@@ -43,7 +43,19 @@ namespace pracfinal
 
         public static void Joke()
         {
-            Console.WriteLine("Bromita");
+            StreamReader sr = File.OpenText(@"..\..\..\..\text\bd103.txt");
+            string st = sr.ReadToEnd();
+            sr.Close();
+
+            string[] configLines = st.Split(new char[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries);
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            foreach (string line in configLines)
+            {
+                Console.WriteLine(line);
+                System.Threading.Thread.Sleep(3000);
+            }
+            Console.ResetColor();
         }
     }
 }
