@@ -39,6 +39,8 @@ namespace pracfinal
                     }
                 }
             }
+
+            // mv $ruta/ignorame.txt $ruta/Ejecutando/ > .archivo.sh    = archivo.bat
         }
 
         public static void Joke()
