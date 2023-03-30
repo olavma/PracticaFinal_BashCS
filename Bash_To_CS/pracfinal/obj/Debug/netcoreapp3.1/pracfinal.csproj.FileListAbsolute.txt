@@ -1,0 +1,14 @@
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.exe
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.deps.json
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.runtimeconfig.json
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.runtimeconfig.dev.json
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.dll
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\bin\Debug\netcoreapp3.1\pracfinal.pdb
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.csproj.AssemblyReference.cache
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.AssemblyInfoInputs.cache
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.AssemblyInfo.cs
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.csproj.CoreCompileInputs.cache
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.dll
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.pdb
+C:\Users\VireN\source\repos\PracticaFinal_BashCS\Bash_To_CS\pracfinal\obj\Debug\netcoreapp3.1\pracfinal.genruntimeconfig.cache
